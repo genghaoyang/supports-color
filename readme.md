@@ -1,8 +1,6 @@
 # supports-color [![Build Status](https://travis-ci.org/chalk/supports-color.svg?branch=master)](https://travis-ci.org/chalk/supports-color)
 
-> Detect whether a terminal supports color
-
-
+> Detect whether a terminal supports color  检测终端是否支持颜色
 ## Install
 
 ```
